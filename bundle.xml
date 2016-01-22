@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adapt_framework>
+    <bundle>
+        <label>Parsedown</label>
+        <name>parsedown</name>
+        <type>extension</type>
+        <version>1.6.0</version>
+        <namespace>\parsedown</namespace>
+        <description>Very fast markdown parser written by Emanuil Rusev</description>
+        <copyright>Emanuil Rusev</copyright>
+        <license>MIT</license>
+        <depends_on>
+            <bundle>
+                <name>adapt</name>
+                <version>1.0</version>
+            </bundle>
+        </depends_on>
+    </bundle>
+</adapt_framework>
